@@ -1,0 +1,13 @@
+{
+  "name": "javascript-errors-notifier",
+  "version": "1.0.0",
+  "repository": "git@github.com:edionmelarosa/javascript-errors-notifier.git",
+  "author": "Dion Larosa <dion@incube8.sg>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "typescript": "2.8.1"
+  }
+}
